@@ -1,0 +1,40 @@
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.exe
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.deps.json
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.runtimeconfig.json
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.runtimeconfig.dev.json
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.dll
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.pdb
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.csproj.AssemblyReference.cache
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment_2.Login.resources
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment_2.Properties.Resources.resources
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.csproj.GenerateResource.cache
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.AssemblyInfoInputs.cache
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.AssemblyInfo.cs
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.dll
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.pdb
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.genruntimeconfig.cache
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment_2.View.Register.resources
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment_2.View.TextEditor.resources
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment_2.View.About.resources
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.exe
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.deps.json
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.runtimeconfig.json
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.runtimeconfig.dev.json
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.dll
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.pdb
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.csproj.AssemblyReference.cache
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\obj\Debug\netcoreapp3.1\Assignment_2.Properties.Resources.resources
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\obj\Debug\netcoreapp3.1\Assignment_2.View.About.resources
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\obj\Debug\netcoreapp3.1\Assignment_2.Login.resources
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\obj\Debug\netcoreapp3.1\Assignment_2.View.Register.resources
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\obj\Debug\netcoreapp3.1\Assignment_2.View.TextEditor.resources
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.csproj.GenerateResource.cache
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.AssemblyInfoInputs.cache
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.AssemblyInfo.cs
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.dll
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.pdb
+C:\Users\ryoka\Desktop\UTS\Semester 4\NET\Assignment\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.genruntimeconfig.cache
